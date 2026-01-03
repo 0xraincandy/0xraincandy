@@ -1,5 +1,3 @@
-[![Language](https://img.shields.io/badge/language-Ruby-red)]()
-
 ## About Me
 I’m a beginner in coding with a strong focus on **Ruby**.  
 I enjoy writing small scripts and other tools in Ruby.
@@ -12,7 +10,7 @@ I enjoy writing small scripts and other tools in Ruby.
 ---
 
 ###  Languages
-- (https://img.shields.io/badge/Ruby-red) ❤️
+- [![Language](https://img.shields.io/badge/Ruby-red)]() ❤️
 - Python
 - C
   
