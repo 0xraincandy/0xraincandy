@@ -1,4 +1,4 @@
-# Hi, I’m raincandy
+[![Language](https://img.shields.io/badge/language-Ruby-red)]()
 
 ## About Me
 I’m a beginner in coding with a strong focus on **Ruby**.  
