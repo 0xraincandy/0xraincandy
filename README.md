@@ -1,24 +1,24 @@
-# 👋 Hi, I’m raincandy
+# Hi, I’m raincandy
 
-## 💎 About Me
+## About Me
 I’m a beginner in coding with a strong focus on **Ruby**.  
 I enjoy writing small scripts and other tools in Ruby.
 
-- 💻 Main language: **Ruby**
-- 🛠️ Interested in small scripts
-- 🌱 Always learning and improving
-- ✨ Fan of readable code and good developer experience
+- Main language: **Ruby**
+- Interested in small scripts
+- Always learning and improving
+-  Fan of readable code
 
 ---
 
-### 🚀 Languages
+###  Languages
 - **Ruby** ❤️
 - Python
 - C
   
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 Here are a few projects I’m proud of:
 
@@ -34,7 +34,7 @@ Here are a few projects I’m proud of:
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 - GitHub: https://github.com/0xraincandy
 - Discord: 0x.raincandy_u
 
