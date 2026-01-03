@@ -34,8 +34,7 @@ Here are a few projects I’m proud of:
 
 ---
 
-## Let’s Connect
-- GitHub: https://github.com/0xraincandy
+## Social Media
 - Discord: 0x.raincandy_u
 
 ---
