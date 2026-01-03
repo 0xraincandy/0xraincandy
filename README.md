@@ -12,7 +12,7 @@ I enjoy writing small scripts and other tools in Ruby.
 ###  Languages
 - [![Language](https://img.shields.io/badge/Ruby-red)]() ❤️
 - [![Language](https://img.shields.io/badge/Python-blue)]()
-- C
+- [![Language](https://img.shields.io/badge/C-blue)]()
   
 ---
 
