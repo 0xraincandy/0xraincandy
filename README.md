@@ -22,8 +22,8 @@ I enjoy writing small scripts and other tools in Ruby.
 
 Here are a few projects I’m proud of:
 
-- [Project One](https://github.com/0xraincandy/syca) – A minimal sudo-like privilege elevation tool for Linux
-- [Project Two](https://github.com/0xraincandy/seija) – A small script that prints out text flipped and reversed
+- [Syca](https://github.com/0xraincandy/syca) – A minimal sudo-like privilege elevation tool for Linux
+- [Seija](https://github.com/0xraincandy/seija) – A small script that prints out text flipped and reversed
 
 ---
 
