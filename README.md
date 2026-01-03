@@ -12,7 +12,7 @@ I enjoy writing small scripts and other tools in Ruby.
 ---
 
 ###  Languages
-- **Ruby** ❤️
+- (https://img.shields.io/badge/Ruby-red) ❤️
 - Python
 - C
   
@@ -27,7 +27,7 @@ Here are a few projects I’m proud of:
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 ![GitHub followers](https://img.shields.io/github/followers/0xraincandy?style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/0xraincandy?style=flat-square)  
 
