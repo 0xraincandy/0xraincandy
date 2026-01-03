@@ -21,9 +21,10 @@ I enjoy writing small scripts and other tools in Ruby.
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![GitHub followers](https://img.shields.io/github/followers/0xraincandy?style=social)  
+![GitHub repos](https://img.shields.io/github/repos/0xraincandy?style=flat-square)  
+![GitHub stars](https://img.shields.io/github/stars/0xraincandy?style=flat-square)  
+![Top language](https://img.shields.io/github/languages/top/0xraincandy?style=flat-square)
 
 ---
 
