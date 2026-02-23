@@ -1,11 +1,10 @@
 ## About Me
-I’m a beginner in coding with a strong focus on **Ruby**.  
+I'm Remilia and I am from the Netherlands.
 I enjoy writing small scripts and other tools in Ruby.
 
 - Main language: **Ruby**
 - Interested in small scripts and tools
 - Always learning and improving
--  Fan of readable code
 
 ---
 
