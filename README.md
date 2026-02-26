@@ -26,8 +26,7 @@ Here are a few projects I’m proud of:
 ---
 
 ## GitHub Stats
-![GitHub followers](https://img.shields.io/github/followers/0xraincandy?style=social)
-
+![Followers](https://img.shields.io/badge/dynamic/json?color=blue&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2F0xraincandy)<br>
 ![GitHub stars](https://img.shields.io/github/stars/0xraincandy?style=flat-square)  
 
 
