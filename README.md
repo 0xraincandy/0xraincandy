@@ -19,24 +19,24 @@ I enjoy writing small scripts and other tools in Ruby.
 
 Here are a few projects I’m proud of:
 
-- [Syca](https://github.com/0xraincandy/syca) – A minimal sudo-like privilege elevation tool for Linux
-- [Ember](https://github.com/0xraincandy/ember) –  An AUR Helper written in Ruby 
-- [Seija](https://github.com/0xraincandy/seija) – A small script that prints out text flipped and reversed
+- [Syca](https://github.com/xkikiyaa/syca) – A minimal sudo-like privilege elevation tool for Linux
+- [Ember](https://github.com/xkikiyaa/ember) –  An AUR Helper written in Ruby 
+- [Seija](https://github.com/xkikiyaa/seija) – A small script that prints out text flipped and reversed
 
 ---
 
 ## GitHub Stats
 <p>
-  <img src="https://img.shields.io/badge/dynamic/json?style=social&logo=github&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2F0xraincandy" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=social&logo=github&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fxkikiyaa" />
   <br>
-  <img src="https://img.shields.io/github/stars/0xraincandy?style=social" />
+  <img src="https://img.shields.io/github/stars/xkikiyaa?style=social" />
 </p>
 
 
 ---
 
 ## Social Media
-- Discord: 0x.raincandy_u
+- Discord: xkikiya
 
 ---
 
