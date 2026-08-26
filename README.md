@@ -1,5 +1,5 @@
 ## About Me
-I'm Lesley and I am from the Netherlands.
+I'm Rachel and I am from the Netherlands.
 I enjoy writing small scripts and other tools in Ruby.
 
 - Main language: **Ruby**
